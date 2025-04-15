@@ -20,6 +20,7 @@ print("""
 print("1 for installing default pack")  # u can change the texts for the options here
 print("2 for installing performance pack")
 print("3 for installing quality pack")
+print("source: https://github.com/idkshigng")
 
 option = input("choose package:")  
 
